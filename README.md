@@ -3,18 +3,18 @@
 ## 📜 Schematic
 
 📷 **Circuit Diagram:**  
-![Schematic](./Schematic.png)
+![Schematic](./Schematic.pdf)
 
 ## 🖼️ Hình Ảnh PCB
 
 ### 🔻 **Mặt Dưới (Bottom Layer)**
-![Bottom Layer](./bottom_layer.png)
+![Bottom Layer](./bot_layer_rounting.JPG)
 
 ### 🔺 **Mặt Trên (Top Layer)**
-![Top Layer](./top_layer.png)
+![Top Layer](./top_layer_rounting.JPG)
 
 ### 🎥 **Hình 3D**
-![3D View](./3d_view.png)
+![3D View](./3d.JPG)
 
 ## 🛠️ Giới Thiệu
 Mạch này sử dụng nguồn **24V** và có khả năng điều khiển relay qua giao tiếp **I2C**. Các thành phần chính bao gồm:
