@@ -1,0 +1,115 @@
+Removed Pin From Net: NetName=VCC 24V Pin=U12-1
+Removed Pin From Net: NetName=NetD43_2 Pin=U12-2
+Removed Pin From Net: NetName=GND Pin=U12-3
+Removed Pin From Net: NetName=VCC 5V Pin=U12-4
+Removed Pin From Net: NetName=GND Pin=U12-5
+Removed Member From Class: ClassName=baicuoiki Member=U12
+Change Component Comment : Designator=R67 Old Comment=4.7K New Comment=1k
+Change Component Comment : Designator=R68 Old Comment=4.7K New Comment=1k
+Change Component Comment : Designator=R61 Old Comment=4.7K New Comment=2.2k
+Change Component Comment : Designator=R62 Old Comment=4.7K New Comment=2.2k
+Change Component Comment : Designator=R63 Old Comment=4.7K New Comment=2.2k
+Change Component Comment : Designator=R64 Old Comment=4.7K New Comment=2.2k
+Change Component Comment : Designator=R74 Old Comment=4.7K New Comment=2.2k
+Change Component Comment : Designator=R76 Old Comment=4.7K New Comment=2.2k
+Change Component Comment : Designator=R77 Old Comment=4.7K New Comment=2.2k
+Change Component Comment : Designator=R78 Old Comment=4.7K New Comment=2.2k
+Change Component Comment : Designator=R79 Old Comment=4.7K New Comment=2.2K
+Change Component Comment : Designator=R86 Old Comment=4.7K New Comment=2.2k
+Change Component Comment : Designator=R88 Old Comment=4.7K New Comment=2.2k
+Change Component Comment : Designator=R90 Old Comment=4.7K New Comment=2.2k
+Change Component Comment : Designator=R91 Old Comment=4.7K New Comment=2.2k
+Change Component Comment : Designator=R99 Old Comment=4.7K New Comment=2.2k
+Change Component Comment : Designator=R101 Old Comment=4.7K New Comment=2.2k
+Change Component Comment : Designator=R102 Old Comment=4.7K New Comment=2.2k
+Change Component Comment : Designator=R103 Old Comment=4.7K New Comment=2.2k
+Change Component Comment : Designator=R1 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R2 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R3 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R4 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R5 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R6 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R7 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R8 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R9 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R10 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R11 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R12 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R13 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R14 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R15 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R16 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R17 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R18 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R19 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R20 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R21 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R22 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R23 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R24 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R25 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R26 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R27 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R28 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R29 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R30 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R31 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R32 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R33 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R34 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R35 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R36 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R37 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R38 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R39 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R40 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R41 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R42 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R43 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R44 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R45 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R46 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R47 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R48 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R49 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R50 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R51 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R52 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R53 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R54 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R55 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R56 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R65 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R66 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R69 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R70 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R80 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R81 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R82 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R83 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R92 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R93 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R94 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R95 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R104 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R105 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R106 Old Comment=4.7K New Comment=10k
+Change Component Comment : Designator=R107 Old Comment=4.7K New Comment=10k
+Added Component: Designator=U?(TO263-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "LM2596SX-ADJ/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LM2596S-ADJ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC 24V Pin=U?-1
+Added Pin To Net: NetName=NetD43_2 Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=VCC 5V Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Member To Class: ClassName=baicuoiki Member=Component U? LM2596S-ADJ
+Added Room: Name=baicuoiki

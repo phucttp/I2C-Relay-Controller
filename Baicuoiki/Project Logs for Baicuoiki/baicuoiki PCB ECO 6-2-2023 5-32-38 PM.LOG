@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C5 Old Footprint=CAPC-0603 (1608) New Footprint=C3MM
+Change Component Footprint: Designator=C15 Old Footprint=CAPC-0603 (1608) New Footprint=C3MM
+Change Component Footprint: Designator=C17 Old Footprint=CAPC-0603 (1608) New Footprint=C3MM
+Added Room: Name=baicuoiki

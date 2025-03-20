@@ -1,0 +1,39 @@
+Added Component: Designator=S1(SW-DIP6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/4181271609xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "Dec.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No."; Value = "418127160906"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pole"; Value = "06"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=R49-2
+Added Pin To Net: NetName=AD0 Pin=R50-2
+Added Pin To Net: NetName=AD1 Pin=R51-2
+Added Pin To Net: NetName=AD2 Pin=R52-2
+Added Pin To Net: NetName=AD0 Pin=S1-1
+Added Pin To Net: NetName=AD1 Pin=S1-2
+Added Pin To Net: NetName=AD2 Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-7
+Added Pin To Net: NetName=GND Pin=S1-8
+Added Pin To Net: NetName=GND Pin=S1-9
+Added Pin To Net: NetName=GND Pin=S1-10
+Added Pin To Net: NetName=GND Pin=S1-11
+Added Pin To Net: NetName=GND Pin=S1-12
+Added Pin To Net: NetName=AD00 Pin=R53-2
+Added Pin To Net: NetName=AD00 Pin=S1-4
+Added Pin To Net: NetName=AD00 Pin=U1-15
+Added Net: Name=AD00
+Added Pin To Net: NetName=AD01 Pin=R54-2
+Added Pin To Net: NetName=AD01 Pin=S1-5
+Added Pin To Net: NetName=AD01 Pin=U1-16
+Added Net: Name=AD01
+Added Pin To Net: NetName=AD02 Pin=R55-2
+Added Pin To Net: NetName=AD02 Pin=S1-6
+Added Pin To Net: NetName=AD02 Pin=U1-17
+Added Net: Name=AD02
+Added Member To Class: ClassName=baicuoiki Member=Component S1 =partNo
+Added Member To Class: ClassName=baicuoiki Member=Component U13 MCP23017-E/SO
+Added Room: Name=baicuoiki

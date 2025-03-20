@@ -1,0 +1,389 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=RL1-4
+Removed Pin From Net: NetName=NetD5_2 Pin=RL1-5
+Removed Pin From Net: NetName=NetD2_2 Pin=RL2-4
+Removed Pin From Net: NetName=NetD6_2 Pin=RL2-5
+Removed Pin From Net: NetName=NetD3_2 Pin=RL3-4
+Removed Pin From Net: NetName=NetD7_2 Pin=RL3-5
+Removed Pin From Net: NetName=NetD4_2 Pin=RL4-4
+Removed Pin From Net: NetName=NetD8_2 Pin=RL4-5
+Removed Pin From Net: NetName=NetD9_2 Pin=RL5-4
+Removed Pin From Net: NetName=NetD13_2 Pin=RL5-5
+Removed Pin From Net: NetName=NetD10_2 Pin=RL6-4
+Removed Pin From Net: NetName=NetD14_2 Pin=RL6-5
+Removed Pin From Net: NetName=NetD11_2 Pin=RL7-4
+Removed Pin From Net: NetName=NetD15_2 Pin=RL7-5
+Removed Pin From Net: NetName=NetD12_2 Pin=RL8-4
+Removed Pin From Net: NetName=NetD16_2 Pin=RL8-5
+Removed Pin From Net: NetName=NetD17_2 Pin=RL9-4
+Removed Pin From Net: NetName=NetD20_2 Pin=RL9-5
+Removed Pin From Net: NetName=NetD18_2 Pin=RL10-4
+Removed Pin From Net: NetName=NetD21_2 Pin=RL10-5
+Removed Pin From Net: NetName=NetD19_2 Pin=RL11-4
+Removed Pin From Net: NetName=NetD22_2 Pin=RL11-5
+Removed Pin From Net: NetName=NetD23_2 Pin=RL12-4
+Removed Pin From Net: NetName=NetD24_2 Pin=RL12-5
+Removed Pin From Net: NetName=NetD25_2 Pin=RL13-4
+Removed Pin From Net: NetName=NetD28_2 Pin=RL13-5
+Removed Pin From Net: NetName=NetD26_2 Pin=RL14-4
+Removed Pin From Net: NetName=NetD29_2 Pin=RL14-5
+Removed Pin From Net: NetName=NetD27_2 Pin=RL15-4
+Removed Pin From Net: NetName=NetD30_2 Pin=RL15-5
+Removed Pin From Net: NetName=NetD31_2 Pin=RL16-4
+Removed Pin From Net: NetName=NetD32_2 Pin=RL16-5
+Removed Pin From Net: NetName=NetC6_2 Pin=U4-3
+Removed Pin From Net: NetName=NetD34_1 Pin=U4-4
+Removed Pin From Net: NetName=NetC7_2 Pin=U4-5
+Removed Pin From Net: NetName=NetD35_1 Pin=U4-6
+Removed Pin From Net: NetName=NetC8_2 Pin=U4-7
+Removed Pin From Net: NetName=NetD36_1 Pin=U4-8
+Removed Pin From Net: NetName=GND Pin=U4-9
+Removed Pin From Net: NetName=B3 Pin=U4-10
+Removed Pin From Net: NetName=GND Pin=U4-11
+Removed Pin From Net: NetName=A3 Pin=U4-12
+Removed Pin From Net: NetName=GND Pin=U4-13
+Removed Pin From Net: NetName=B7 Pin=U4-14
+Removed Pin From Net: NetName=GND Pin=U4-15
+Removed Pin From Net: NetName=A7 Pin=U4-16
+Removed Pin From Net: NetName=NetC9_2 Pin=U5-1
+Removed Pin From Net: NetName=NetD38_1 Pin=U5-2
+Removed Pin From Net: NetName=NetC10_2 Pin=U5-3
+Removed Pin From Net: NetName=NetD39_1 Pin=U5-4
+Removed Pin From Net: NetName=NetC11_2 Pin=U5-5
+Removed Pin From Net: NetName=NetD40_1 Pin=U5-6
+Removed Pin From Net: NetName=NetC12_2 Pin=U5-7
+Removed Pin From Net: NetName=NetD41_1 Pin=U5-8
+Removed Pin From Net: NetName=GND Pin=U5-9
+Removed Pin From Net: NetName=B2 Pin=U5-10
+Removed Pin From Net: NetName=GND Pin=U5-11
+Removed Pin From Net: NetName=A2 Pin=U5-12
+Removed Pin From Net: NetName=GND Pin=U5-13
+Removed Pin From Net: NetName=B6 Pin=U5-14
+Removed Pin From Net: NetName=GND Pin=U5-15
+Removed Pin From Net: NetName=A6 Pin=U5-16
+Removed Pin From Net: NetName=NetC16_2 Pin=U7-1
+Removed Pin From Net: NetName=NetD44_1 Pin=U7-2
+Removed Pin From Net: NetName=NetC17_2 Pin=U7-3
+Removed Pin From Net: NetName=NetD45_1 Pin=U7-4
+Removed Pin From Net: NetName=NetC18_2 Pin=U7-5
+Removed Pin From Net: NetName=NetD46_1 Pin=U7-6
+Removed Pin From Net: NetName=NetC19_2 Pin=U7-7
+Removed Pin From Net: NetName=NetD47_1 Pin=U7-8
+Removed Pin From Net: NetName=GND Pin=U7-9
+Removed Pin From Net: NetName=B1 Pin=U7-10
+Removed Pin From Net: NetName=GND Pin=U7-11
+Removed Pin From Net: NetName=A1 Pin=U7-12
+Removed Pin From Net: NetName=GND Pin=U7-13
+Removed Pin From Net: NetName=B5 Pin=U7-14
+Removed Pin From Net: NetName=GND Pin=U7-15
+Removed Pin From Net: NetName=A5 Pin=U7-16
+Removed Pin From Net: NetName=NetC20_2 Pin=U8-1
+Removed Pin From Net: NetName=NetD48_1 Pin=U8-2
+Removed Pin From Net: NetName=NetC21_2 Pin=U8-3
+Removed Pin From Net: NetName=NetD49_1 Pin=U8-4
+Removed Pin From Net: NetName=NetC22_2 Pin=U8-5
+Removed Pin From Net: NetName=NetD50_1 Pin=U8-6
+Removed Pin From Net: NetName=NetC23_2 Pin=U8-7
+Removed Pin From Net: NetName=NetD51_1 Pin=U8-8
+Removed Pin From Net: NetName=GND Pin=U8-9
+Removed Pin From Net: NetName=B0 Pin=U8-10
+Removed Pin From Net: NetName=GND Pin=U8-11
+Removed Pin From Net: NetName=A0 Pin=U8-12
+Removed Pin From Net: NetName=GND Pin=U8-13
+Removed Pin From Net: NetName=B4 Pin=U8-14
+Removed Pin From Net: NetName=GND Pin=U8-15
+Removed Pin From Net: NetName=A4 Pin=U8-16
+Removed Member From Class: ClassName=baicuoiki Member=RL1
+Removed Member From Class: ClassName=baicuoiki Member=RL2
+Removed Member From Class: ClassName=baicuoiki Member=RL3
+Removed Member From Class: ClassName=baicuoiki Member=RL4
+Removed Member From Class: ClassName=baicuoiki Member=RL5
+Removed Member From Class: ClassName=baicuoiki Member=RL6
+Removed Member From Class: ClassName=baicuoiki Member=RL7
+Removed Member From Class: ClassName=baicuoiki Member=RL8
+Removed Member From Class: ClassName=baicuoiki Member=RL9
+Removed Member From Class: ClassName=baicuoiki Member=RL10
+Removed Member From Class: ClassName=baicuoiki Member=RL11
+Removed Member From Class: ClassName=baicuoiki Member=RL12
+Removed Member From Class: ClassName=baicuoiki Member=RL13
+Removed Member From Class: ClassName=baicuoiki Member=RL14
+Removed Member From Class: ClassName=baicuoiki Member=RL15
+Removed Member From Class: ClassName=baicuoiki Member=RL16
+Change Component Footprint: Designator=U4 Old Footprint=DIP16 New Footprint=OPTO TRANSISTOR_SOP-4
+Change Component Footprint: Designator=U5 Old Footprint=DIP16 New Footprint=OPTO TRANSISTOR_SOP-4
+Change Component Footprint: Designator=U7 Old Footprint=DIP16 New Footprint=OPTO TRANSISTOR_SOP-4
+Change Component Footprint: Designator=U8 Old Footprint=DIP16 New Footprint=OPTO TRANSISTOR_SOP-4
+Change Component Comment : Designator=U4 Old Comment=TLP521-4 New Comment=VOM617A-2T
+Change Component Comment : Designator=U5 Old Comment=TLP521-4 New Comment=VOM617A-2T
+Change Component Comment : Designator=U7 Old Comment=TLP521-4 New Comment=VOM617A-2T
+Change Component Comment : Designator=U8 Old Comment=TLP521-4 New Comment=VOM617A-2T
+Change Component Designator: OldDesignator=C13 NewDesignator=C15
+Change Component Designator: OldDesignator=C14 NewDesignator=C13
+Change Component Designator: OldDesignator=C15 NewDesignator=C14
+Change Component Designator: OldDesignator=K? NewDesignator=K4
+Change Component Designator: OldDesignator=U6 NewDesignator=U12
+Change Component Designator: OldDesignator=U? NewDesignator=U15
+Change component parameters: Designator = "U4"; Footprint = "OPTO TRANSISTOR_SOP-4"; UniqueID = "\JARYFDOW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = "VT-xxxx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5"; Footprint = "OPTO TRANSISTOR_SOP-4"; UniqueID = "\UKPNEUIE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = "VT-xxxx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U7"; Footprint = "OPTO TRANSISTOR_SOP-4"; UniqueID = "\BVMOJJCR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = "VT-xxxx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U8"; Footprint = "OPTO TRANSISTOR_SOP-4"; UniqueID = "\URTTINPR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = "VT-xxxx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Added Component: Designator=K1(RELAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K2(RELAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K3(RELAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K5(RELAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K6(RELAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K7(RELAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K8(RELAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K9(RELAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K10(RELAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K11(RELAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K12(RELAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K13(RELAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K14(RELAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K15(RELAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K16(RELAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U6(OPTO TRANSISTOR_SOP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-xxxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Added Component: Designator=U9(OPTO TRANSISTOR_SOP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-xxxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Added Component: Designator=U10(OPTO TRANSISTOR_SOP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-xxxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Added Component: Designator=U11(OPTO TRANSISTOR_SOP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-xxxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Added Component: Designator=U13(OPTO TRANSISTOR_SOP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-xxxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Added Component: Designator=U14(OPTO TRANSISTOR_SOP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-xxxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Added Component: Designator=U16(OPTO TRANSISTOR_SOP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-xxxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Added Component: Designator=U17(OPTO TRANSISTOR_SOP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-xxxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Added Component: Designator=U18(OPTO TRANSISTOR_SOP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-xxxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Added Component: Designator=U19(OPTO TRANSISTOR_SOP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-xxxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Added Component: Designator=U20(OPTO TRANSISTOR_SOP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-xxxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Added Component: Designator=U21(OPTO TRANSISTOR_SOP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-xxxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "VOM617A-2T"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=A7 Pin=U4-4
+Added Pin To Net: NetName=NetC6_2 Pin=U5-1
+Added Pin To Net: NetName=NetD34_1 Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=B7 Pin=U5-4
+Added Pin To Net: NetName=NetC7_2 Pin=U6-1
+Added Pin To Net: NetName=NetD35_1 Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=A3 Pin=U6-4
+Added Pin To Net: NetName=NetC8_2 Pin=U7-1
+Added Pin To Net: NetName=NetD36_1 Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=B3 Pin=U7-4
+Added Pin To Net: NetName=NetC9_2 Pin=U8-1
+Added Pin To Net: NetName=NetD38_1 Pin=U8-2
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=A6 Pin=U8-4
+Added Pin To Net: NetName=NetC10_2 Pin=U9-1
+Added Pin To Net: NetName=NetD39_1 Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=B6 Pin=U9-4
+Added Pin To Net: NetName=NetC11_2 Pin=U10-1
+Added Pin To Net: NetName=NetD40_1 Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=A2 Pin=U10-4
+Added Pin To Net: NetName=NetC12_2 Pin=U11-1
+Added Pin To Net: NetName=NetD41_1 Pin=U11-2
+Added Pin To Net: NetName=GND Pin=U11-3
+Added Pin To Net: NetName=B2 Pin=U11-4
+Added Pin To Net: NetName=NetC16_2 Pin=U13-1
+Added Pin To Net: NetName=NetD44_1 Pin=U13-2
+Added Pin To Net: NetName=GND Pin=U13-3
+Added Pin To Net: NetName=A5 Pin=U13-4
+Added Pin To Net: NetName=NetC17_2 Pin=U14-1
+Added Pin To Net: NetName=NetD45_1 Pin=U14-2
+Added Pin To Net: NetName=GND Pin=U14-3
+Added Pin To Net: NetName=B5 Pin=U14-4
+Added Pin To Net: NetName=NetC18_2 Pin=U16-1
+Added Pin To Net: NetName=NetD46_1 Pin=U16-2
+Added Pin To Net: NetName=GND Pin=U16-3
+Added Pin To Net: NetName=A1 Pin=U16-4
+Added Pin To Net: NetName=NetC19_2 Pin=U17-1
+Added Pin To Net: NetName=NetD47_1 Pin=U17-2
+Added Pin To Net: NetName=GND Pin=U17-3
+Added Pin To Net: NetName=B1 Pin=U17-4
+Added Pin To Net: NetName=NetC20_2 Pin=U18-1
+Added Pin To Net: NetName=NetD48_1 Pin=U18-2
+Added Pin To Net: NetName=GND Pin=U18-3
+Added Pin To Net: NetName=A4 Pin=U18-4
+Added Pin To Net: NetName=NetC21_2 Pin=U19-1
+Added Pin To Net: NetName=NetD49_1 Pin=U19-2
+Added Pin To Net: NetName=GND Pin=U19-3
+Added Pin To Net: NetName=B4 Pin=U19-4
+Added Pin To Net: NetName=NetC22_2 Pin=U20-1
+Added Pin To Net: NetName=NetD50_1 Pin=U20-2
+Added Pin To Net: NetName=GND Pin=U20-3
+Added Pin To Net: NetName=A0 Pin=U20-4
+Added Pin To Net: NetName=NetC23_2 Pin=U21-1
+Added Pin To Net: NetName=NetD51_1 Pin=U21-2
+Added Pin To Net: NetName=GND Pin=U21-3
+Added Pin To Net: NetName=B0 Pin=U21-4
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC15_1
+Added Member To Class: ClassName=baicuoiki Member=Component K1 RELAY
+Added Member To Class: ClassName=baicuoiki Member=Component K2 RELAY
+Added Member To Class: ClassName=baicuoiki Member=Component K3 RELAY
+Added Member To Class: ClassName=baicuoiki Member=Component K5 RELAY
+Added Member To Class: ClassName=baicuoiki Member=Component K6 RELAY
+Added Member To Class: ClassName=baicuoiki Member=Component K7 RELAY
+Added Member To Class: ClassName=baicuoiki Member=Component K8 RELAY
+Added Member To Class: ClassName=baicuoiki Member=Component K9 RELAY
+Added Member To Class: ClassName=baicuoiki Member=Component K10 RELAY
+Added Member To Class: ClassName=baicuoiki Member=Component K11 RELAY
+Added Member To Class: ClassName=baicuoiki Member=Component K12 RELAY
+Added Member To Class: ClassName=baicuoiki Member=Component K13 RELAY
+Added Member To Class: ClassName=baicuoiki Member=Component K14 RELAY
+Added Member To Class: ClassName=baicuoiki Member=Component K15 RELAY
+Added Member To Class: ClassName=baicuoiki Member=Component K16 RELAY
+Added Member To Class: ClassName=baicuoiki Member=Component U9 VOM617A-2T
+Added Member To Class: ClassName=baicuoiki Member=Component U10 VOM617A-2T
+Added Member To Class: ClassName=baicuoiki Member=Component U11 VOM617A-2T
+Added Member To Class: ClassName=baicuoiki Member=Component U12 LM2576
+Added Member To Class: ClassName=baicuoiki Member=Component U13 VOM617A-2T
+Added Member To Class: ClassName=baicuoiki Member=Component U14 VOM617A-2T
+Added Member To Class: ClassName=baicuoiki Member=Component U16 VOM617A-2T
+Added Member To Class: ClassName=baicuoiki Member=Component U17 VOM617A-2T
+Added Member To Class: ClassName=baicuoiki Member=Component U18 VOM617A-2T
+Added Member To Class: ClassName=baicuoiki Member=Component U19 VOM617A-2T
+Added Member To Class: ClassName=baicuoiki Member=Component U20 VOM617A-2T
+Added Member To Class: ClassName=baicuoiki Member=Component U21 VOM617A-2T
+Added Room: Name=baicuoiki

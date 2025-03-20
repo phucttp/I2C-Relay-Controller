@@ -1,0 +1,2368 @@
+Added Component: Designator=C1(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C3MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C3MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C3MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAPC-0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "0805C225K8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "225/10V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V/300MA"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V/300MA"; VariantName = "[No Variations]"
+Added Component: Designator=D7(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V/300MA"; VariantName = "[No Variations]"
+Added Component: Designator=D8(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V/300MA"; VariantName = "[No Variations]"
+Added Component: Designator=D9(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D10(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D11(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D12(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D13(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V/300MA"; VariantName = "[No Variations]"
+Added Component: Designator=D14(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V/300MA"; VariantName = "[No Variations]"
+Added Component: Designator=D15(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V/300MA"; VariantName = "[No Variations]"
+Added Component: Designator=D16(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V/300MA"; VariantName = "[No Variations]"
+Added Component: Designator=D17(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D18(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D19(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D20(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V/300MA"; VariantName = "[No Variations]"
+Added Component: Designator=D21(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V/300MA"; VariantName = "[No Variations]"
+Added Component: Designator=D22(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V/300MA"; VariantName = "[No Variations]"
+Added Component: Designator=D23(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D24(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V/300MA"; VariantName = "[No Variations]"
+Added Component: Designator=D25(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D26(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D27(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D28(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V/300MA"; VariantName = "[No Variations]"
+Added Component: Designator=D29(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V/300MA"; VariantName = "[No Variations]"
+Added Component: Designator=D30(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V/300MA"; VariantName = "[No Variations]"
+Added Component: Designator=D31(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D32(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1N4148W-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V/300MA"; VariantName = "[No Variations]"
+Added Component: Designator=D33(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D34(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D35(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D36(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D37(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D38(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D39(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D40(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D41(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D42(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "ON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "MMSZ3V6T1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.6V"; VariantName = "[No Variations]"
+Added Component: Designator=D43(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "ON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "MMSZ3V6T1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.6V"; VariantName = "[No Variations]"
+Added Component: Designator=D44(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D45(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D46(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D47(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D48(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D49(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D50(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=D51(LED_0805_GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "17-21/G6C-FM1N2B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2V4/20mA"; VariantName = "[No Variations]"
+Added Component: Designator=K?(RELAY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "S1012EC-40-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 4P"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RN4-1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R34(RN4-1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R35(RN4-1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R36(RN4-1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R37(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RN4-1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R42(RN4-1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R43(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R44(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R45(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R46(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R47(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R48(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R49(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R50(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R51(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R52(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R53(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R54(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R55(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R56(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R57(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R58(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R59(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R60(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R61(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R62(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R63(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R64(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R65(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R66(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R67(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R68(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R69(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R70(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R71(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R72(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R73(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R74(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R75(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R76(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R77(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R78(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R79(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R80(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R81(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R82(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R83(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R84(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R85(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R86(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R87(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R88(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R89(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=RL1(RELAY5PIN-10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL2(RELAY5PIN-10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL3(RELAY5PIN-10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL4(RELAY5PIN-10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL5(RELAY5PIN-10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL6(RELAY5PIN-10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL7(RELAY5PIN-10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL8(RELAY5PIN-10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL9(RELAY5PIN-10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL10(RELAY5PIN-10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL11(RELAY5PIN-10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL12(RELAY5PIN-10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL13(RELAY5PIN-10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL14(RELAY5PIN-10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL15(RELAY5PIN-10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL16(RELAY5PIN-10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC127P1030X265-28N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP23017-E/SO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-28 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP23017-E/SO/Microchip/view-part/48467/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(SO18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.allegromicro.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "06-Jun-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 18 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "A18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "13-Oct-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SO18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.allegromicro.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "06-Jun-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 18 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "A18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "13-Oct-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U4(DIP16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "TLP521-4"; VariantName = "[No Variations]"
+Added Component: Designator=U5(DIP16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "TLP521-4"; VariantName = "[No Variations]"
+Added Component: Designator=U6(TO263)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "IC-Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "12 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "3 (6.0 peak) A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Voltage"; Value = "mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerICTypes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Unreleased"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage"; Value = "mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-40 to +125 degC"; VariantName = "[No Variations]"
+Added Component: Designator=U7(DIP16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "TLP521-4"; VariantName = "[No Variations]"
+Added Component: Designator=U8(DIP16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "TLP521-4"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOIC127P1030X265-28N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP23017-E/SO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-28 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP23017-E/SO/Microchip/view-part/48467/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A0 Pin=R80-2
+Added Pin To Net: NetName=A0 Pin=U8-12
+Added Net: Name=A0
+Added Pin To Net: NetName=A00 Pin=R34-8
+Added Pin To Net: NetName=A00 Pin=U1-21
+Added Pin To Net: NetName=A00 Pin=U2-1
+Added Net: Name=A00
+Added Pin To Net: NetName=A01 Pin=R34-7
+Added Pin To Net: NetName=A01 Pin=U1-22
+Added Pin To Net: NetName=A01 Pin=U2-2
+Added Net: Name=A01
+Added Pin To Net: NetName=A1 Pin=R69-2
+Added Pin To Net: NetName=A1 Pin=U7-12
+Added Net: Name=A1
+Added Pin To Net: NetName=A02 Pin=R34-6
+Added Pin To Net: NetName=A02 Pin=U1-23
+Added Pin To Net: NetName=A02 Pin=U2-3
+Added Net: Name=A02
+Added Pin To Net: NetName=A2 Pin=R55-2
+Added Pin To Net: NetName=A2 Pin=U5-12
+Added Net: Name=A2
+Added Pin To Net: NetName=A03 Pin=R34-5
+Added Pin To Net: NetName=A03 Pin=U1-24
+Added Pin To Net: NetName=A03 Pin=U2-4
+Added Net: Name=A03
+Added Pin To Net: NetName=A3 Pin=R39-2
+Added Pin To Net: NetName=A3 Pin=U4-12
+Added Net: Name=A3
+Added Pin To Net: NetName=A04 Pin=R33-8
+Added Pin To Net: NetName=A04 Pin=U1-25
+Added Pin To Net: NetName=A04 Pin=U2-5
+Added Net: Name=A04
+Added Pin To Net: NetName=A4 Pin=R78-2
+Added Pin To Net: NetName=A4 Pin=U8-16
+Added Net: Name=A4
+Added Pin To Net: NetName=A05 Pin=R33-7
+Added Pin To Net: NetName=A05 Pin=U1-26
+Added Pin To Net: NetName=A05 Pin=U2-6
+Added Net: Name=A05
+Added Pin To Net: NetName=A5 Pin=R66-2
+Added Pin To Net: NetName=A5 Pin=U7-16
+Added Net: Name=A5
+Added Pin To Net: NetName=A06 Pin=R33-6
+Added Pin To Net: NetName=A06 Pin=U1-27
+Added Pin To Net: NetName=A06 Pin=U2-7
+Added Net: Name=A06
+Added Pin To Net: NetName=A6 Pin=R53-2
+Added Pin To Net: NetName=A6 Pin=U5-16
+Added Net: Name=A6
+Added Pin To Net: NetName=A07 Pin=R33-5
+Added Pin To Net: NetName=A07 Pin=U1-28
+Added Pin To Net: NetName=A07 Pin=U2-8
+Added Net: Name=A07
+Added Pin To Net: NetName=A7 Pin=R37-2
+Added Pin To Net: NetName=A7 Pin=U4-16
+Added Net: Name=A7
+Added Pin To Net: NetName=B0 Pin=R82-2
+Added Pin To Net: NetName=B0 Pin=U8-10
+Added Net: Name=B0
+Added Pin To Net: NetName=B00 Pin=R36-8
+Added Pin To Net: NetName=B00 Pin=U1-1
+Added Pin To Net: NetName=B00 Pin=U3-1
+Added Net: Name=B00
+Added Pin To Net: NetName=B01 Pin=R36-7
+Added Pin To Net: NetName=B01 Pin=U1-2
+Added Pin To Net: NetName=B01 Pin=U3-2
+Added Net: Name=B01
+Added Pin To Net: NetName=B1 Pin=R71-2
+Added Pin To Net: NetName=B1 Pin=U7-10
+Added Net: Name=B1
+Added Pin To Net: NetName=B02 Pin=R36-6
+Added Pin To Net: NetName=B02 Pin=U1-3
+Added Pin To Net: NetName=B02 Pin=U3-3
+Added Net: Name=B02
+Added Pin To Net: NetName=B2 Pin=R57-2
+Added Pin To Net: NetName=B2 Pin=U5-10
+Added Net: Name=B2
+Added Pin To Net: NetName=B03 Pin=R36-5
+Added Pin To Net: NetName=B03 Pin=U1-4
+Added Pin To Net: NetName=B03 Pin=U3-4
+Added Net: Name=B03
+Added Pin To Net: NetName=B3 Pin=R40-2
+Added Pin To Net: NetName=B3 Pin=U4-10
+Added Net: Name=B3
+Added Pin To Net: NetName=B04 Pin=R35-8
+Added Pin To Net: NetName=B04 Pin=U1-5
+Added Pin To Net: NetName=B04 Pin=U3-5
+Added Net: Name=B04
+Added Pin To Net: NetName=B4 Pin=R79-2
+Added Pin To Net: NetName=B4 Pin=U8-14
+Added Net: Name=B4
+Added Pin To Net: NetName=B05 Pin=R35-7
+Added Pin To Net: NetName=B05 Pin=U1-6
+Added Pin To Net: NetName=B05 Pin=U3-6
+Added Net: Name=B05
+Added Pin To Net: NetName=B5 Pin=R67-2
+Added Pin To Net: NetName=B5 Pin=U7-14
+Added Net: Name=B5
+Added Pin To Net: NetName=B06 Pin=R35-6
+Added Pin To Net: NetName=B06 Pin=U1-7
+Added Pin To Net: NetName=B06 Pin=U3-7
+Added Net: Name=B06
+Added Pin To Net: NetName=B6 Pin=R54-2
+Added Pin To Net: NetName=B6 Pin=U5-14
+Added Net: Name=B6
+Added Pin To Net: NetName=B07 Pin=R35-5
+Added Pin To Net: NetName=B07 Pin=U1-8
+Added Pin To Net: NetName=B07 Pin=U3-8
+Added Net: Name=B07
+Added Pin To Net: NetName=B7 Pin=R38-2
+Added Pin To Net: NetName=B7 Pin=U4-14
+Added Net: Name=B7
+Added Pin To Net: NetName=COM1 Pin=RL1-2
+Added Pin To Net: NetName=COM1 Pin=RL8-2
+Added Pin To Net: NetName=COM1 Pin=RL12-2
+Added Pin To Net: NetName=COM1 Pin=RL16-2
+Added Net: Name=COM1
+Added Pin To Net: NetName=COM2 Pin=RL2-2
+Added Pin To Net: NetName=COM2 Pin=RL5-2
+Added Pin To Net: NetName=COM2 Pin=RL9-2
+Added Pin To Net: NetName=COM2 Pin=RL13-2
+Added Net: Name=COM2
+Added Pin To Net: NetName=COM3 Pin=RL3-2
+Added Pin To Net: NetName=COM3 Pin=RL6-2
+Added Pin To Net: NetName=COM3 Pin=RL10-2
+Added Pin To Net: NetName=COM3 Pin=RL14-2
+Added Net: Name=COM3
+Added Pin To Net: NetName=COM4 Pin=RL4-2
+Added Pin To Net: NetName=COM4 Pin=RL7-2
+Added Pin To Net: NetName=COM4 Pin=RL11-2
+Added Pin To Net: NetName=COM4 Pin=RL15-2
+Added Net: Name=COM4
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=D37-2
+Added Pin To Net: NetName=GND Pin=D43-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=GND Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U4-15
+Added Pin To Net: NetName=GND Pin=U5-9
+Added Pin To Net: NetName=GND Pin=U5-11
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=GND Pin=U5-15
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Pin To Net: NetName=GND Pin=U7-11
+Added Pin To Net: NetName=GND Pin=U7-13
+Added Pin To Net: NetName=GND Pin=U7-15
+Added Pin To Net: NetName=GND Pin=U8-9
+Added Pin To Net: NetName=GND Pin=U8-11
+Added Pin To Net: NetName=GND Pin=U8-13
+Added Pin To Net: NetName=GND Pin=U8-15
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R43-1
+Added Pin To Net: NetName=NetC5_2 Pin=R47-1
+Added Pin To Net: NetName=NetC5_2 Pin=U4-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R44-1
+Added Pin To Net: NetName=NetC6_2 Pin=R48-1
+Added Pin To Net: NetName=NetC6_2 Pin=U4-3
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R45-1
+Added Pin To Net: NetName=NetC7_2 Pin=R51-1
+Added Pin To Net: NetName=NetC7_2 Pin=U4-5
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R46-1
+Added Pin To Net: NetName=NetC8_2 Pin=R52-1
+Added Pin To Net: NetName=NetC8_2 Pin=U4-7
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R56-1
+Added Pin To Net: NetName=NetC9_2 Pin=R62-1
+Added Pin To Net: NetName=NetC9_2 Pin=U5-1
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=R58-1
+Added Pin To Net: NetName=NetC10_2 Pin=R63-1
+Added Pin To Net: NetName=NetC10_2 Pin=U5-3
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=R59-1
+Added Pin To Net: NetName=NetC11_2 Pin=R64-1
+Added Pin To Net: NetName=NetC11_2 Pin=U5-5
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R60-1
+Added Pin To Net: NetName=NetC12_2 Pin=R65-1
+Added Pin To Net: NetName=NetC12_2 Pin=U5-7
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=R61-2
+Added Pin To Net: NetName=NetC13_1 Pin=U6-4
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=R68-1
+Added Pin To Net: NetName=NetC16_2 Pin=R74-1
+Added Pin To Net: NetName=NetC16_2 Pin=U7-1
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=R70-1
+Added Pin To Net: NetName=NetC17_2 Pin=R75-1
+Added Pin To Net: NetName=NetC17_2 Pin=U7-3
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=R72-1
+Added Pin To Net: NetName=NetC18_2 Pin=R76-1
+Added Pin To Net: NetName=NetC18_2 Pin=U7-5
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=R73-1
+Added Pin To Net: NetName=NetC19_2 Pin=R77-1
+Added Pin To Net: NetName=NetC19_2 Pin=U7-7
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=R81-1
+Added Pin To Net: NetName=NetC20_2 Pin=R86-1
+Added Pin To Net: NetName=NetC20_2 Pin=U8-1
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=R83-1
+Added Pin To Net: NetName=NetC21_2 Pin=R87-1
+Added Pin To Net: NetName=NetC21_2 Pin=U8-3
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=R84-1
+Added Pin To Net: NetName=NetC22_2 Pin=R88-1
+Added Pin To Net: NetName=NetC22_2 Pin=U8-5
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=R85-1
+Added Pin To Net: NetName=NetC23_2 Pin=R89-1
+Added Pin To Net: NetName=NetC23_2 Pin=U8-7
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R5-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D5-1
+Added Pin To Net: NetName=NetD1_2 Pin=RL1-4
+Added Pin To Net: NetName=NetD1_2 Pin=U2-18
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R6-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D6-1
+Added Pin To Net: NetName=NetD2_2 Pin=RL2-4
+Added Pin To Net: NetName=NetD2_2 Pin=U2-14
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R7-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D7-1
+Added Pin To Net: NetName=NetD3_2 Pin=RL3-4
+Added Pin To Net: NetName=NetD3_2 Pin=U3-18
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R8-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=D8-1
+Added Pin To Net: NetName=NetD4_2 Pin=RL4-4
+Added Pin To Net: NetName=NetD4_2 Pin=U3-14
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R1-1
+Added Pin To Net: NetName=NetD5_2 Pin=RL1-5
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R2-1
+Added Pin To Net: NetName=NetD6_2 Pin=RL2-5
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R3-1
+Added Pin To Net: NetName=NetD7_2 Pin=RL3-5
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=R4-1
+Added Pin To Net: NetName=NetD8_2 Pin=RL4-5
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=R13-1
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=D13-1
+Added Pin To Net: NetName=NetD9_2 Pin=RL5-4
+Added Pin To Net: NetName=NetD9_2 Pin=U2-13
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_1 Pin=R14-1
+Added Net: Name=NetD10_1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=D14-1
+Added Pin To Net: NetName=NetD10_2 Pin=RL6-4
+Added Pin To Net: NetName=NetD10_2 Pin=U3-17
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_1 Pin=R15-1
+Added Net: Name=NetD11_1
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=D15-1
+Added Pin To Net: NetName=NetD11_2 Pin=RL7-4
+Added Pin To Net: NetName=NetD11_2 Pin=U3-13
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_1 Pin=R16-1
+Added Net: Name=NetD12_1
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=D16-1
+Added Pin To Net: NetName=NetD12_2 Pin=RL8-4
+Added Pin To Net: NetName=NetD12_2 Pin=U2-17
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD13_2 Pin=R9-1
+Added Pin To Net: NetName=NetD13_2 Pin=RL5-5
+Added Net: Name=NetD13_2
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=NetD14_2 Pin=R10-1
+Added Pin To Net: NetName=NetD14_2 Pin=RL6-5
+Added Net: Name=NetD14_2
+Added Pin To Net: NetName=NetD15_2 Pin=D15-2
+Added Pin To Net: NetName=NetD15_2 Pin=R11-1
+Added Pin To Net: NetName=NetD15_2 Pin=RL7-5
+Added Net: Name=NetD15_2
+Added Pin To Net: NetName=NetD16_2 Pin=D16-2
+Added Pin To Net: NetName=NetD16_2 Pin=R12-1
+Added Pin To Net: NetName=NetD16_2 Pin=RL8-5
+Added Net: Name=NetD16_2
+Added Pin To Net: NetName=NetD17_1 Pin=D17-1
+Added Pin To Net: NetName=NetD17_1 Pin=R21-1
+Added Net: Name=NetD17_1
+Added Pin To Net: NetName=NetD17_2 Pin=D17-2
+Added Pin To Net: NetName=NetD17_2 Pin=D20-1
+Added Pin To Net: NetName=NetD17_2 Pin=RL9-4
+Added Pin To Net: NetName=NetD17_2 Pin=U2-12
+Added Net: Name=NetD17_2
+Added Pin To Net: NetName=NetD18_1 Pin=D18-1
+Added Pin To Net: NetName=NetD18_1 Pin=R22-1
+Added Net: Name=NetD18_1
+Added Pin To Net: NetName=NetD18_2 Pin=D18-2
+Added Pin To Net: NetName=NetD18_2 Pin=D21-1
+Added Pin To Net: NetName=NetD18_2 Pin=RL10-4
+Added Pin To Net: NetName=NetD18_2 Pin=U3-16
+Added Net: Name=NetD18_2
+Added Pin To Net: NetName=NetD19_1 Pin=D19-1
+Added Pin To Net: NetName=NetD19_1 Pin=R23-1
+Added Net: Name=NetD19_1
+Added Pin To Net: NetName=NetD19_2 Pin=D19-2
+Added Pin To Net: NetName=NetD19_2 Pin=D22-1
+Added Pin To Net: NetName=NetD19_2 Pin=RL11-4
+Added Pin To Net: NetName=NetD19_2 Pin=U3-12
+Added Net: Name=NetD19_2
+Added Pin To Net: NetName=NetD20_2 Pin=D20-2
+Added Pin To Net: NetName=NetD20_2 Pin=R17-1
+Added Pin To Net: NetName=NetD20_2 Pin=RL9-5
+Added Net: Name=NetD20_2
+Added Pin To Net: NetName=NetD21_2 Pin=D21-2
+Added Pin To Net: NetName=NetD21_2 Pin=R18-1
+Added Pin To Net: NetName=NetD21_2 Pin=RL10-5
+Added Net: Name=NetD21_2
+Added Pin To Net: NetName=NetD22_2 Pin=D22-2
+Added Pin To Net: NetName=NetD22_2 Pin=R19-1
+Added Pin To Net: NetName=NetD22_2 Pin=RL11-5
+Added Net: Name=NetD22_2
+Added Pin To Net: NetName=NetD23_1 Pin=D23-1
+Added Pin To Net: NetName=NetD23_1 Pin=R24-1
+Added Net: Name=NetD23_1
+Added Pin To Net: NetName=NetD23_2 Pin=D23-2
+Added Pin To Net: NetName=NetD23_2 Pin=D24-1
+Added Pin To Net: NetName=NetD23_2 Pin=RL12-4
+Added Pin To Net: NetName=NetD23_2 Pin=U2-16
+Added Net: Name=NetD23_2
+Added Pin To Net: NetName=NetD24_2 Pin=D24-2
+Added Pin To Net: NetName=NetD24_2 Pin=R20-1
+Added Pin To Net: NetName=NetD24_2 Pin=RL12-5
+Added Net: Name=NetD24_2
+Added Pin To Net: NetName=NetD25_1 Pin=D25-1
+Added Pin To Net: NetName=NetD25_1 Pin=R29-1
+Added Net: Name=NetD25_1
+Added Pin To Net: NetName=NetD25_2 Pin=D25-2
+Added Pin To Net: NetName=NetD25_2 Pin=D28-1
+Added Pin To Net: NetName=NetD25_2 Pin=RL13-4
+Added Pin To Net: NetName=NetD25_2 Pin=U2-11
+Added Net: Name=NetD25_2
+Added Pin To Net: NetName=NetD26_1 Pin=D26-1
+Added Pin To Net: NetName=NetD26_1 Pin=R30-1
+Added Net: Name=NetD26_1
+Added Pin To Net: NetName=NetD26_2 Pin=D26-2
+Added Pin To Net: NetName=NetD26_2 Pin=D29-1
+Added Pin To Net: NetName=NetD26_2 Pin=RL14-4
+Added Pin To Net: NetName=NetD26_2 Pin=U3-15
+Added Net: Name=NetD26_2
+Added Pin To Net: NetName=NetD27_1 Pin=D27-1
+Added Pin To Net: NetName=NetD27_1 Pin=R31-1
+Added Net: Name=NetD27_1
+Added Pin To Net: NetName=NetD27_2 Pin=D27-2
+Added Pin To Net: NetName=NetD27_2 Pin=D30-1
+Added Pin To Net: NetName=NetD27_2 Pin=RL15-4
+Added Pin To Net: NetName=NetD27_2 Pin=U3-11
+Added Net: Name=NetD27_2
+Added Pin To Net: NetName=NetD28_2 Pin=D28-2
+Added Pin To Net: NetName=NetD28_2 Pin=R25-1
+Added Pin To Net: NetName=NetD28_2 Pin=RL13-5
+Added Net: Name=NetD28_2
+Added Pin To Net: NetName=NetD29_2 Pin=D29-2
+Added Pin To Net: NetName=NetD29_2 Pin=R26-1
+Added Pin To Net: NetName=NetD29_2 Pin=RL14-5
+Added Net: Name=NetD29_2
+Added Pin To Net: NetName=NetD30_2 Pin=D30-2
+Added Pin To Net: NetName=NetD30_2 Pin=R27-1
+Added Pin To Net: NetName=NetD30_2 Pin=RL15-5
+Added Net: Name=NetD30_2
+Added Pin To Net: NetName=NetD31_1 Pin=D31-1
+Added Pin To Net: NetName=NetD31_1 Pin=R32-1
+Added Net: Name=NetD31_1
+Added Pin To Net: NetName=NetD31_2 Pin=D31-2
+Added Pin To Net: NetName=NetD31_2 Pin=D32-1
+Added Pin To Net: NetName=NetD31_2 Pin=RL16-4
+Added Pin To Net: NetName=NetD31_2 Pin=U2-15
+Added Net: Name=NetD31_2
+Added Pin To Net: NetName=NetD32_2 Pin=D32-2
+Added Pin To Net: NetName=NetD32_2 Pin=R28-1
+Added Pin To Net: NetName=NetD32_2 Pin=RL16-5
+Added Net: Name=NetD32_2
+Added Pin To Net: NetName=NetD33_1 Pin=D33-1
+Added Pin To Net: NetName=NetD33_1 Pin=U4-2
+Added Net: Name=NetD33_1
+Added Pin To Net: NetName=NetD34_1 Pin=D34-1
+Added Pin To Net: NetName=NetD34_1 Pin=U4-4
+Added Net: Name=NetD34_1
+Added Pin To Net: NetName=NetD35_1 Pin=D35-1
+Added Pin To Net: NetName=NetD35_1 Pin=U4-6
+Added Net: Name=NetD35_1
+Added Pin To Net: NetName=NetD36_1 Pin=D36-1
+Added Pin To Net: NetName=NetD36_1 Pin=U4-8
+Added Net: Name=NetD36_1
+Added Pin To Net: NetName=NetD37_1 Pin=D37-1
+Added Pin To Net: NetName=NetD37_1 Pin=R61-1
+Added Net: Name=NetD37_1
+Added Pin To Net: NetName=NetD38_1 Pin=D38-1
+Added Pin To Net: NetName=NetD38_1 Pin=U5-2
+Added Net: Name=NetD38_1
+Added Pin To Net: NetName=NetD39_1 Pin=D39-1
+Added Pin To Net: NetName=NetD39_1 Pin=U5-4
+Added Net: Name=NetD39_1
+Added Pin To Net: NetName=NetD40_1 Pin=D40-1
+Added Pin To Net: NetName=NetD40_1 Pin=U5-6
+Added Net: Name=NetD40_1
+Added Pin To Net: NetName=NetD41_1 Pin=D41-1
+Added Pin To Net: NetName=NetD41_1 Pin=U5-8
+Added Net: Name=NetD41_1
+Added Pin To Net: NetName=NetD43_2 Pin=D43-2
+Added Pin To Net: NetName=NetD43_2 Pin=U6-2
+Added Net: Name=NetD43_2
+Added Pin To Net: NetName=NetD44_1 Pin=D44-1
+Added Pin To Net: NetName=NetD44_1 Pin=U7-2
+Added Net: Name=NetD44_1
+Added Pin To Net: NetName=NetD45_1 Pin=D45-1
+Added Pin To Net: NetName=NetD45_1 Pin=U7-4
+Added Net: Name=NetD45_1
+Added Pin To Net: NetName=NetD46_1 Pin=D46-1
+Added Pin To Net: NetName=NetD46_1 Pin=U7-6
+Added Net: Name=NetD46_1
+Added Pin To Net: NetName=NetD47_1 Pin=D47-1
+Added Pin To Net: NetName=NetD47_1 Pin=U7-8
+Added Net: Name=NetD47_1
+Added Pin To Net: NetName=NetD48_1 Pin=D48-1
+Added Pin To Net: NetName=NetD48_1 Pin=U8-2
+Added Net: Name=NetD48_1
+Added Pin To Net: NetName=NetD49_1 Pin=D49-1
+Added Pin To Net: NetName=NetD49_1 Pin=U8-4
+Added Net: Name=NetD49_1
+Added Pin To Net: NetName=NetD50_1 Pin=D50-1
+Added Pin To Net: NetName=NetD50_1 Pin=U8-6
+Added Net: Name=NetD50_1
+Added Pin To Net: NetName=NetD51_1 Pin=D51-1
+Added Pin To Net: NetName=NetD51_1 Pin=U8-8
+Added Net: Name=NetD51_1
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=P1-4
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=RESET0 Pin=U1-18
+Added Net: Name=RESET0
+Added Pin To Net: NetName=VCC 5V Pin=C2-1
+Added Pin To Net: NetName=VCC 5V Pin=C3-1
+Added Pin To Net: NetName=VCC 5V Pin=R33-1
+Added Pin To Net: NetName=VCC 5V Pin=R33-2
+Added Pin To Net: NetName=VCC 5V Pin=R33-3
+Added Pin To Net: NetName=VCC 5V Pin=R33-4
+Added Pin To Net: NetName=VCC 5V Pin=R34-1
+Added Pin To Net: NetName=VCC 5V Pin=R34-2
+Added Pin To Net: NetName=VCC 5V Pin=R34-3
+Added Pin To Net: NetName=VCC 5V Pin=R34-4
+Added Pin To Net: NetName=VCC 5V Pin=R35-1
+Added Pin To Net: NetName=VCC 5V Pin=R35-2
+Added Pin To Net: NetName=VCC 5V Pin=R35-3
+Added Pin To Net: NetName=VCC 5V Pin=R35-4
+Added Pin To Net: NetName=VCC 5V Pin=R36-1
+Added Pin To Net: NetName=VCC 5V Pin=R36-2
+Added Pin To Net: NetName=VCC 5V Pin=R36-3
+Added Pin To Net: NetName=VCC 5V Pin=R36-4
+Added Pin To Net: NetName=VCC 5V Pin=R37-1
+Added Pin To Net: NetName=VCC 5V Pin=R38-1
+Added Pin To Net: NetName=VCC 5V Pin=R39-1
+Added Pin To Net: NetName=VCC 5V Pin=R40-1
+Added Pin To Net: NetName=VCC 5V Pin=R49-1
+Added Pin To Net: NetName=VCC 5V Pin=R50-1
+Added Pin To Net: NetName=VCC 5V Pin=R53-1
+Added Pin To Net: NetName=VCC 5V Pin=R54-1
+Added Pin To Net: NetName=VCC 5V Pin=R55-1
+Added Pin To Net: NetName=VCC 5V Pin=R57-1
+Added Pin To Net: NetName=VCC 5V Pin=R66-1
+Added Pin To Net: NetName=VCC 5V Pin=R67-1
+Added Pin To Net: NetName=VCC 5V Pin=R69-1
+Added Pin To Net: NetName=VCC 5V Pin=R71-1
+Added Pin To Net: NetName=VCC 5V Pin=R78-1
+Added Pin To Net: NetName=VCC 5V Pin=R79-1
+Added Pin To Net: NetName=VCC 5V Pin=R80-1
+Added Pin To Net: NetName=VCC 5V Pin=R82-1
+Added Pin To Net: NetName=VCC 5V Pin=U1-9
+Added Net: Name=VCC 5V
+Added Pin To Net: NetName=VCC 24IN Pin=D42-1
+Added Net: Name=VCC 24IN
+Added Pin To Net: NetName=VCC 24V Pin=C1-1
+Added Pin To Net: NetName=VCC 24V Pin=C4-1
+Added Pin To Net: NetName=VCC 24V Pin=C14-1
+Added Pin To Net: NetName=VCC 24V Pin=C15-2
+Added Pin To Net: NetName=VCC 24V Pin=D42-2
+Added Pin To Net: NetName=VCC 24V Pin=R1-2
+Added Pin To Net: NetName=VCC 24V Pin=R2-2
+Added Pin To Net: NetName=VCC 24V Pin=R3-2
+Added Pin To Net: NetName=VCC 24V Pin=R4-2
+Added Pin To Net: NetName=VCC 24V Pin=R5-2
+Added Pin To Net: NetName=VCC 24V Pin=R6-2
+Added Pin To Net: NetName=VCC 24V Pin=R7-2
+Added Pin To Net: NetName=VCC 24V Pin=R8-2
+Added Pin To Net: NetName=VCC 24V Pin=R9-2
+Added Pin To Net: NetName=VCC 24V Pin=R10-2
+Added Pin To Net: NetName=VCC 24V Pin=R11-2
+Added Pin To Net: NetName=VCC 24V Pin=R12-2
+Added Pin To Net: NetName=VCC 24V Pin=R13-2
+Added Pin To Net: NetName=VCC 24V Pin=R14-2
+Added Pin To Net: NetName=VCC 24V Pin=R15-2
+Added Pin To Net: NetName=VCC 24V Pin=R16-2
+Added Pin To Net: NetName=VCC 24V Pin=R17-2
+Added Pin To Net: NetName=VCC 24V Pin=R18-2
+Added Pin To Net: NetName=VCC 24V Pin=R19-2
+Added Pin To Net: NetName=VCC 24V Pin=R20-2
+Added Pin To Net: NetName=VCC 24V Pin=R21-2
+Added Pin To Net: NetName=VCC 24V Pin=R22-2
+Added Pin To Net: NetName=VCC 24V Pin=R23-2
+Added Pin To Net: NetName=VCC 24V Pin=R24-2
+Added Pin To Net: NetName=VCC 24V Pin=R25-2
+Added Pin To Net: NetName=VCC 24V Pin=R26-2
+Added Pin To Net: NetName=VCC 24V Pin=R27-2
+Added Pin To Net: NetName=VCC 24V Pin=R28-2
+Added Pin To Net: NetName=VCC 24V Pin=R29-2
+Added Pin To Net: NetName=VCC 24V Pin=R30-2
+Added Pin To Net: NetName=VCC 24V Pin=R31-2
+Added Pin To Net: NetName=VCC 24V Pin=R32-2
+Added Pin To Net: NetName=VCC 24V Pin=R43-2
+Added Pin To Net: NetName=VCC 24V Pin=R44-2
+Added Pin To Net: NetName=VCC 24V Pin=R45-2
+Added Pin To Net: NetName=VCC 24V Pin=R46-2
+Added Pin To Net: NetName=VCC 24V Pin=R56-2
+Added Pin To Net: NetName=VCC 24V Pin=R58-2
+Added Pin To Net: NetName=VCC 24V Pin=R59-2
+Added Pin To Net: NetName=VCC 24V Pin=R60-2
+Added Pin To Net: NetName=VCC 24V Pin=R68-2
+Added Pin To Net: NetName=VCC 24V Pin=R70-2
+Added Pin To Net: NetName=VCC 24V Pin=R72-2
+Added Pin To Net: NetName=VCC 24V Pin=R73-2
+Added Pin To Net: NetName=VCC 24V Pin=R81-2
+Added Pin To Net: NetName=VCC 24V Pin=R83-2
+Added Pin To Net: NetName=VCC 24V Pin=R84-2
+Added Pin To Net: NetName=VCC 24V Pin=R85-2
+Added Pin To Net: NetName=VCC 24V Pin=U2-10
+Added Pin To Net: NetName=VCC 24V Pin=U3-10
+Added Pin To Net: NetName=VCC 24V Pin=U6-1
+Added Net: Name=VCC 24V
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Net: Name=VCC
+Added Pin To Net: NetName=X1B Pin=RL1-3
+Added Net: Name=X1B
+Added Pin To Net: NetName=X2A Pin=RL8-3
+Added Net: Name=X2A
+Added Pin To Net: NetName=X2B Pin=RL12-3
+Added Net: Name=X2B
+Added Pin To Net: NetName=X3A Pin=RL16-3
+Added Net: Name=X3A
+Added Pin To Net: NetName=X4A Pin=RL2-3
+Added Net: Name=X4A
+Added Pin To Net: NetName=X4B Pin=RL5-3
+Added Net: Name=X4B
+Added Pin To Net: NetName=X5A Pin=RL9-3
+Added Net: Name=X5A
+Added Pin To Net: NetName=X5BVCC Pin=RL13-3
+Added Net: Name=X5BVCC
+Added Pin To Net: NetName=X6B Pin=RL3-3
+Added Net: Name=X6B
+Added Pin To Net: NetName=X7A Pin=RL6-3
+Added Net: Name=X7A
+Added Pin To Net: NetName=X7B Pin=RL10-3
+Added Net: Name=X7B
+Added Pin To Net: NetName=X8A Pin=RL14-3
+Added Net: Name=X8A
+Added Pin To Net: NetName=X9A Pin=RL4-3
+Added Net: Name=X9A
+Added Pin To Net: NetName=X9B Pin=RL7-3
+Added Net: Name=X9B
+Added Pin To Net: NetName=X10A Pin=RL11-3
+Added Net: Name=X10A
+Added Pin To Net: NetName=X10B Pin=RL15-3
+Added Net: Name=X10B
+Added Pin To Net: NetName=X11A Pin=R50-2
+Added Pin To Net: NetName=X11A Pin=U1-12
+Added Net: Name=X11A
+Added Pin To Net: NetName=X11B Pin=R49-2
+Added Pin To Net: NetName=X11B Pin=U1-13
+Added Net: Name=X11B
+Added Pin To Net: NetName=X12A Pin=C9-1
+Added Pin To Net: NetName=X12A Pin=D38-2
+Added Pin To Net: NetName=X12A Pin=R62-2
+Added Net: Name=X12A
+Added Pin To Net: NetName=X12B Pin=C5-1
+Added Pin To Net: NetName=X12B Pin=D33-2
+Added Pin To Net: NetName=X12B Pin=R47-2
+Added Net: Name=X12B
+Added Pin To Net: NetName=X13A Pin=C20-1
+Added Pin To Net: NetName=X13A Pin=D48-2
+Added Pin To Net: NetName=X13A Pin=R86-2
+Added Net: Name=X13A
+Added Pin To Net: NetName=X13B Pin=C16-1
+Added Pin To Net: NetName=X13B Pin=D44-2
+Added Pin To Net: NetName=X13B Pin=R74-2
+Added Net: Name=X13B
+Added Pin To Net: NetName=X14A Pin=C11-1
+Added Pin To Net: NetName=X14A Pin=D40-2
+Added Pin To Net: NetName=X14A Pin=R64-2
+Added Net: Name=X14A
+Added Pin To Net: NetName=X14B Pin=C7-1
+Added Pin To Net: NetName=X14B Pin=D35-2
+Added Pin To Net: NetName=X14B Pin=R51-2
+Added Net: Name=X14B
+Added Pin To Net: NetName=X15A Pin=C22-1
+Added Pin To Net: NetName=X15A Pin=D50-2
+Added Pin To Net: NetName=X15A Pin=R88-2
+Added Net: Name=X15A
+Added Pin To Net: NetName=X15B Pin=C18-1
+Added Pin To Net: NetName=X15B Pin=D46-2
+Added Pin To Net: NetName=X15B Pin=R76-2
+Added Net: Name=X15B
+Added Pin To Net: NetName=X16A Pin=C10-1
+Added Pin To Net: NetName=X16A Pin=D39-2
+Added Pin To Net: NetName=X16A Pin=R63-2
+Added Net: Name=X16A
+Added Pin To Net: NetName=X16B Pin=C6-1
+Added Pin To Net: NetName=X16B Pin=D34-2
+Added Pin To Net: NetName=X16B Pin=R48-2
+Added Net: Name=X16B
+Added Pin To Net: NetName=X17A Pin=C21-1
+Added Pin To Net: NetName=X17A Pin=D49-2
+Added Pin To Net: NetName=X17A Pin=R87-2
+Added Net: Name=X17A
+Added Pin To Net: NetName=X17B Pin=C17-1
+Added Pin To Net: NetName=X17B Pin=D45-2
+Added Pin To Net: NetName=X17B Pin=R75-2
+Added Net: Name=X17B
+Added Pin To Net: NetName=X18A Pin=C12-1
+Added Pin To Net: NetName=X18A Pin=D41-2
+Added Pin To Net: NetName=X18A Pin=R65-2
+Added Net: Name=X18A
+Added Pin To Net: NetName=X18B Pin=C8-1
+Added Pin To Net: NetName=X18B Pin=D36-2
+Added Pin To Net: NetName=X18B Pin=R52-2
+Added Net: Name=X18B
+Added Pin To Net: NetName=X19A Pin=C23-1
+Added Pin To Net: NetName=X19A Pin=D51-2
+Added Pin To Net: NetName=X19A Pin=R89-2
+Added Net: Name=X19A
+Added Pin To Net: NetName=X19B Pin=C19-1
+Added Pin To Net: NetName=X19B Pin=D47-2
+Added Pin To Net: NetName=X19B Pin=R77-2
+Added Net: Name=X19B
+Added Class: Name=baicuoiki
+Added Room: Name=baicuoiki

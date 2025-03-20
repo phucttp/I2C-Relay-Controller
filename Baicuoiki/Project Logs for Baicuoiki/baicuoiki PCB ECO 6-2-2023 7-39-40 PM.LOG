@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=RELAY8 Pin=U2-11
+Added Pin To Net: NetName=RELAY7 Pin=U2-12
+Added Pin To Net: NetName=RELAY6 Pin=U2-13
+Added Pin To Net: NetName=RELAY5 Pin=U2-14
+Added Pin To Net: NetName=RELAY4 Pin=U2-15
+Added Pin To Net: NetName=RELAY3 Pin=U2-16
+Added Pin To Net: NetName=RELAY2 Pin=U2-17
+Added Pin To Net: NetName=RELAY1 Pin=U2-18
+Added Pin To Net: NetName=RELAY16 Pin=U3-11
+Added Pin To Net: NetName=RELAY15 Pin=U3-12
+Added Pin To Net: NetName=RELAY14 Pin=U3-13
+Added Pin To Net: NetName=RELAY13 Pin=U3-14
+Added Pin To Net: NetName=RELAY12 Pin=U3-15
+Added Pin To Net: NetName=RELAY11 Pin=U3-16
+Added Pin To Net: NetName=RELAY10 Pin=U3-17
+Added Pin To Net: NetName=RELAY9 Pin=U3-18
+Added Room: Name=baicuoiki

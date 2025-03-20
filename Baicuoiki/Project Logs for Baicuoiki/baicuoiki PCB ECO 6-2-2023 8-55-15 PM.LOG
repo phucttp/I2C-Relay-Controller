@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=RELAY5 Pin=D6-1
+Added Pin To Net: NetName=RELAY6 Pin=D14-1
+Added Pin To Net: NetName=RELAY5 Pin=K2-1
+Added Pin To Net: NetName=RELAY6 Pin=K6-1
+Added Member To Class: ClassName=baicuoiki Member=Component C1 225/10V
+Added Member To Class: ClassName=baicuoiki Member=Component C2 225/10V
+Added Member To Class: ClassName=baicuoiki Member=Component C3 225/10V
+Added Member To Class: ClassName=baicuoiki Member=Component C4 225/10V
+Added Member To Class: ClassName=baicuoiki Member=Component C5 225/10V
+Added Member To Class: ClassName=baicuoiki Member=Component C6 225/10V
+Added Member To Class: ClassName=baicuoiki Member=Component C7 225/10V
+Added Member To Class: ClassName=baicuoiki Member=Component C8 225/10V
+Added Member To Class: ClassName=baicuoiki Member=Component C9 225/10V
+Added Member To Class: ClassName=baicuoiki Member=Component C10 225/10V
+Added Member To Class: ClassName=baicuoiki Member=Component C11 225/10V
+Added Member To Class: ClassName=baicuoiki Member=Component C12 225/10V
+Added Member To Class: ClassName=baicuoiki Member=Component C13 225/10V
+Added Member To Class: ClassName=baicuoiki Member=Component C14 225/10V
+Added Member To Class: ClassName=baicuoiki Member=Component C15 225/10V
+Added Member To Class: ClassName=baicuoiki Member=Component C16 225/10V
+Added Room: Name=baicuoiki

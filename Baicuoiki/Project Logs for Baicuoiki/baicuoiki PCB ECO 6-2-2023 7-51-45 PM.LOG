@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=SDA Pin=P21-3
+Added Pin To Net: NetName=SCL Pin=P21-4
+Added Pin To Net: NetName=SDA Pin=R67-2
+Added Pin To Net: NetName=SCL Pin=R68-2
+Added Pin To Net: NetName=NetU1_12 Pin=U1-12
+Added Net: Name=NetU1_12
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Net: Name=NetU1_13
+Added Room: Name=baicuoiki

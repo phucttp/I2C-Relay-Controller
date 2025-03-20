@@ -1,0 +1,37 @@
+Added Pin To Net: NetName=COM1 Pin=P1-1
+Added Pin To Net: NetName=COM3 Pin=P2-1
+Added Pin To Net: NetName=COM2 Pin=P9-2
+Added Pin To Net: NetName=COM4 Pin=P10-2
+Change Net Name : Old Net Name=COM1 New Net Name=X1A
+Change Net Name : Old Net Name=COM2 New Net Name=X3B
+Change Net Name : Old Net Name=COM3 New Net Name=X6A
+Change Net Name : Old Net Name=COM4 New Net Name=X8B
+Added Member To Class: ClassName=baicuoiki Member=Component C5 Cap Pol 3mm
+Added Member To Class: ClassName=baicuoiki Member=Component C6 225/10V
+Added Member To Class: ClassName=baicuoiki Member=Component D9 30V/1A
+Added Member To Class: ClassName=baicuoiki Member=Component D17 30V/1A
+Added Member To Class: ClassName=baicuoiki Member=Component D23 30V/1A
+Added Member To Class: ClassName=baicuoiki Member=Component D25 30V/1A
+Added Member To Class: ClassName=baicuoiki Member=Component D31 30V/1A
+Added Member To Class: ClassName=baicuoiki Member=Component D33 30V/1A
+Added Member To Class: ClassName=baicuoiki Member=Component D43 30V/1A
+Added Member To Class: ClassName=baicuoiki Member=Component P1 Header 2x1
+Added Member To Class: ClassName=baicuoiki Member=Component R37 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R38 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R39 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R40 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R43 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R44 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R45 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R46 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R47 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R48 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R49 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R50 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R51 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R52 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R53 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R54 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R55 4.7K
+Added Member To Class: ClassName=baicuoiki Member=Component R56 4.7K
+Added Room: Name=baicuoiki
