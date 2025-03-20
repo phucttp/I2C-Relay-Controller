@@ -1,56 +1,56 @@
-# ⚡ Mạch Điều Khiển Relay Qua I2C (Nguồn 24V) ⚡
+# ⚡ Relay Control Circuit via I2C (24V Power Supply) ⚡
 
 ## 📜 Schematic
 
 📷 **Circuit Diagram:**  
 ![Schematic](./Schematic.pdf)
 
-## 🖼️ Hình Ảnh PCB
+## 🖼️ PCB Images
 
-### 🔻 **Mặt Dưới (Bottom Layer)**
+### 🔻 **Bottom Layer**
 ![Bottom Layer](./bot_layer_rounting.JPG)
 
-### 🔺 **Mặt Trên (Top Layer)**
+### 🔺 **Top Layer**
 ![Top Layer](./top_layer_rounting.JPG)
 
-### 🎥 **Hình 3D**
+### 🎥 **3D View**
 ![3D View](./3d.JPG)
 
-## 🛠️ Giới Thiệu
-Mạch này sử dụng nguồn **24V** và có khả năng điều khiển relay qua giao tiếp **I2C**. Các thành phần chính bao gồm:
+## 🛠️ Introduction
+This circuit operates on a **24V power supply** and can control relays via **I2C communication**. The key components include:
 
-- 🔹 **`MCP23017`**: Bộ mở rộng GPIO qua giao tiếp I2C.
-- 🔹 **`ULN2803A`**: Mạch Darlington transistor driver để kích relay.
-- 🔹 **`VOM617A-2T`**: Optocoupler để cách ly tín hiệu.
-- 🔹 **`Relay`**: Được điều khiển để bật/tắt tải điện.
-- 🔹 **`LM2596`**: Module hạ áp từ **24V xuống 5V** để cấp nguồn cho vi điều khiển và MCP23017.
-- 🔹 **`RJ45`**: Dùng để kết nối tín hiệu điều khiển từ xa.
+- 🔹 **`MCP23017`**: GPIO expander with I2C interface.
+- 🔹 **`ULN2803A`**: Darlington transistor driver for relay activation.
+- 🔹 **`VOM617A-2T`**: Optocoupler for signal isolation.
+- 🔹 **`Relay`**: Controls electrical loads by turning them on/off.
+- 🔹 **`LM2596`**: Step-down module to convert **24V to 5V** for powering the microcontroller and MCP23017.
+- 🔹 **`RJ45`**: Used for remote control signal connections.
 
-## 📋 Sơ Đồ Mạch
+## 📋 Circuit Diagram
 
-- 🟢 **Nguồn chính 24V** cấp cho toàn bộ hệ thống.
-- 🟢 **LM2596** hạ áp từ **24V xuống 5V** để cấp cho MCP23017, ULN2803A và vi điều khiển.
-- 🟢 **MCP23017** mở rộng cổng GPIO để điều khiển nhiều relay hơn.
-- 🟢 **ULN2803A** khuếch đại dòng điện từ MCP23017 để kích hoạt relay.
-- 🟢 **Optocoupler VOM617A-2T** giúp cách ly tín hiệu điều khiển khỏi mạch công suất.
-- 🟢 **RJ45** giúp truyền tín hiệu I2C hoặc tín hiệu điều khiển khác từ xa.
-- 🟢 **Relay 24V** được kích hoạt để đóng/ngắt tải điện cao hơn.
+- 🟢 **Main 24V power supply** for the entire system.
+- 🟢 **LM2596** steps down **24V to 5V** to power MCP23017, ULN2803A, and the microcontroller.
+- 🟢 **MCP23017** expands GPIO ports to control multiple relays.
+- 🟢 **ULN2803A** amplifies current from MCP23017 to drive relays.
+- 🟢 **Optocoupler VOM617A-2T** isolates the control signal from the power circuit.
+- 🟢 **RJ45** enables remote transmission of I2C signals or other control signals.
+- 🟢 **24V relay** is activated to switch high-power loads.
 
-## ⚡ Chức Năng
-✅ Điều khiển bật/tắt relay thông qua vi điều khiển với giao tiếp I2C.  
-✅ Cách ly tín hiệu điều khiển và tải điện cao áp.  
-✅ Hỗ trợ mở rộng nhiều relay bằng MCP23017.  
-✅ **Sử dụng LM2596 để hạ áp 24V xuống 5V** mà không cần mạch nguồn phụ.  
-✅ Truyền tín hiệu điều khiển từ xa qua cổng RJ45.  
+## ⚡ Features
+✅ Relay ON/OFF control via I2C-compatible microcontroller.  
+✅ Electrical isolation between control signals and high-voltage loads.  
+✅ Supports multiple relay expansion with MCP23017.  
+✅ **Uses LM2596 to step down 24V to 5V**, eliminating the need for an additional power circuit.  
+✅ Remote control signal transmission via RJ45.  
 
-## 🔌 Hướng Dẫn Sử Dụng
-### 1️⃣ Kết Nối Phần Cứng
+## 🔌 Usage Guide
+### 1️⃣ Hardware Connections
 
 ```yaml
-🔋 Nguồn vào: 24V cấp cho relay và LM2596
-⚡ LM2596: Giảm 24V xuống 5V để cấp cho IC điều khiển
-🔗 SDA, SCL của MCP23017 → Vi điều khiển (ESP32, Raspberry Pi, Arduino...)
-🖲️ OUTPUT của MCP23017 → INPUT của ULN2803A
-🔌 OUTPUT của ULN2803A → Relay 24V
-🛡️ Optocoupler (VOM617A-2T) → Cách ly tín hiệu điều khiển
-🌐 RJ45 → Kết nối mạch với hệ thống điều khiển từ xa
+🔋 Input power: 24V for relay and LM2596
+⚡ LM2596: Converts 24V to 5V for the control IC
+🔗 SDA, SCL of MCP23017 → Microcontroller (ESP32, Raspberry Pi, Arduino...)
+🖲️ OUTPUT of MCP23017 → INPUT of ULN2803A
+🔌 OUTPUT of ULN2803A → 24V Relay
+🛡️ Optocoupler (VOM617A-2T) → Isolates control signal
+🌐 RJ45 → Connects the circuit to a remote control system
